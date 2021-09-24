@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 this is the main file to be pushed.
 this is the second modification done to the file as second commmit.
 this is the third commit and the third modification done to the file.
+=======
+this is the main file to be pushed
+>>>>>>> parent of 5f3dc99 (first-commit)
