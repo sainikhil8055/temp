@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 this is the main file to be pushed
-git 
-=======
-this is the main file to be pushed.
->>>>>>> parent of 3cfa521 (first-commit)
+git bfeda6a73fc0c53992d9d323ed12fdcfdfc35126vjhvjh
